@@ -1,0 +1,10 @@
+^D:\P3\SOURCE\BUILD\CMAKEFILES\3A5C3487195DAB6964C0F018EF35BB49\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/P3/source -BD:/P3/source/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/P3/source/build/multimodule_app.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

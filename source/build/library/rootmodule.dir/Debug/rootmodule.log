@@ -1,0 +1,4 @@
+﻿  Building Custom Rule D:/P3/source/library/CMakeLists.txt
+  speaker.cpp
+     Создается библиотека D:/P3/source/build/library/Debug/rootmodule.lib и объект D:/P3/source/build/library/Debug/rootmodule.exp
+  rootmodule.vcxproj -> D:\P3\source\build\bin\Debug\rootmodule.dll

@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\P3\\source\\build\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0293F94E-477A-3BE3-9C64-42AA7850EAF6}|executable\\demoapplication.vcxproj|D:\\P3\\source\\executable\\app.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.cpp",
+              "DocumentMoniker": "D:\\P3\\source\\executable\\app.cpp",
+              "RelativeDocumentMoniker": "..\\executable\\app.cpp",
+              "ToolTip": "D:\\P3\\source\\executable\\app.cpp",
+              "RelativeToolTip": "..\\executable\\app.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-21T17:51:26.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
